@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-tbis is new ok
-=======
-this is new  i am writing new one ok 
->>>>>>> 574f2ced24326160e0fbf8733ac63aa1c1c34b97
+ok make this file chnage
